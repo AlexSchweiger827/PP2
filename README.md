@@ -100,7 +100,7 @@ and pressing `enter`.
     Include a screenshot of your function-call!
 
 
-    ![image_alt](https://github.com/AlexSchweiger827/PP2/blob/master/Alex_plus_func.PNG?raw=true)
+    ![Invoking the Plus Function](./assets/plus_func.png)
 
 
 </details>
