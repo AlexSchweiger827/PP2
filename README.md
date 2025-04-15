@@ -99,7 +99,7 @@ and pressing `enter`.
     <summary>Calling a Function</summary>
     Include a screenshot of your function-call!
     
-    ![Alex_plus_func](./assets/Alex_plus_func.png)
+    ![Alex_plus_func](./Alex_plus_func.png)
 
 
 </details>
