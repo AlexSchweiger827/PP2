@@ -72,7 +72,7 @@ Try accessing the `return_value` identifier without prepending `$`.
 
 <details>
     <summary>You Answer</summary>
-    ......
+The system did not return the value. Because of the missing prepending `$` the system thinks that return_value is a command and not a variable. 
 </details>
 
 ### Task 3: Function-Identifiers
@@ -98,6 +98,7 @@ and pressing `enter`.
 <details>
     <summary>Calling a Function</summary>
     Include a screenshot of your function-call!
+    ![image](https://github.com/user-attachments/assets/a08f6f43-82b3-4370-bec8-926daa2c4732)
 </details>
 
 ### Task 4: Handling Parameters
