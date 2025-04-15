@@ -99,6 +99,7 @@ and pressing `enter`.
     <summary>Calling a Function</summary>
     Include a screenshot of your function-call!
 
+
     ![image_alt](https://github.com/AlexSchweiger827/PP2/blob/master/Alex_plus_func.PNG?raw=true)
 
 
