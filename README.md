@@ -384,7 +384,9 @@ cd /
 **Run `ls` again and insert the content here:**
 <details>
     <summary>Your Answer</summary>
-    ![ls_content](https://github.com/AlexSchweiger827/PP2/blob/master/ls.PNG?raw=true).
+    
+    ![image_alt](https://github.com/AlexSchweiger827/PP2/blob/master/ls.PNG?raw=true).
+    
 </details>
 
 Now navigate through your filesystem using `cd` and the name of the directory you want to set as your new `pwd`.
