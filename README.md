@@ -271,7 +271,7 @@ These examples demonstrate various fundamental operations in Bash scripting, inc
 combi_func(){
 > var1=$1
 > var2=$2
-> if (( $var2 < var1)); then
+> if (( $var2 < $var1)); then
 > result= $(( $var1 - $var2))
 > else
 > result=$(( $var2 - $var1))
