@@ -467,3 +467,4 @@ When you finished that tutorial, open a file in your home directory and manipula
 ---
 
 **Remember:** Stop working after 90 minutes and record where you stopped!
+I finished task 1-9. It took me 95 minutes because I got problems to show the pictures. In task 9 one answer only shows the picture URL. 
