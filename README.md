@@ -385,7 +385,7 @@ cd /
 <details>
     <summary>Your Answer</summary>
     
-    ![image](https://github.com/AlexSchweiger827/PP2/blob/master/ls.PNG?raw=true) 
+    ![image alt](https://github.com/AlexSchweiger827/PP2/blob/master/LS3.PNG?raw=true). 
     
     
 </details>
@@ -404,7 +404,9 @@ Use `rm` to delete a file and `rm -rf` to delete a directory.
     <summary>Your Terminal Output</summary>
 ```bash
 your terminal output
-```
+    
+![image alt](https://github.com/AlexSchweiger827/PP2/blob/master/mkdir%202.PNG?raw=true).
+    
 </details>
 
 ### Task 10: Managing Software
