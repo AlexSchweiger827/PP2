@@ -385,7 +385,8 @@ cd /
 <details>
     <summary>Your Answer</summary>
     
-    ![image alt](https://github.com/AlexSchweiger827/PP2/blob/master/ls.PNG?raw=true.)
+    ![image](https://github.com/AlexSchweiger827/PP2/blob/master/ls.PNG?raw=true) 
+    
     
 </details>
 
