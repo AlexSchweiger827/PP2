@@ -316,7 +316,7 @@ cat ./function
 **What happend?**
 <details>
     <summary>Your Explaination</summary>
-    .....
+ My first and second function are stored in the folder ./function. The sign ">" is to overwrite a folder and the sign ">>" is to add a function to a folder.
 
 </details>
 
