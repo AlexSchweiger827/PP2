@@ -359,7 +359,8 @@ You can use a shorthand within your calls to add this string as a prefix to any 
 **Look at task 6 again. What is the complete filepath of your functions file?**
 <details>
     <summary>Your Answer</summary>
-    ....
+   with the command "pwd" the filepath is: /home/lex-alex.
+    with the command "realpath" the filepath is: /home/lex-alex/function
 </details>
 
 All filenames start with a `/`. 
